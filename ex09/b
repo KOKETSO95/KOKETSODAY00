@@ -1,0 +1,1 @@
+tar -xf resources.tar | diff a b > sw.diff

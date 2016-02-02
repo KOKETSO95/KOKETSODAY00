@@ -1,0 +1,4 @@
+dn: uid=koseopel,ou=people,dc=42,dcfr
+changetype:modify
+add:mobile
+mobile:0727892605
